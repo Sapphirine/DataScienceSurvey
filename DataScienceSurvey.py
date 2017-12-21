@@ -4,8 +4,8 @@
 # In[5]:
 
 
-yourFilePath="C:\\Users\\udayg\\Desktop\\final project\\kaggle-survey-2017\\multipleChoiceResponses.csv"
-curencyConverion="C:\\Users\\udayg\\Desktop\\final project\\kaggle-survey-2017\\conversionRates.csv"
+yourFilePath=./"multipleChoiceResponses.csv"
+curencyConverion="./conversionRates.csv"
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
